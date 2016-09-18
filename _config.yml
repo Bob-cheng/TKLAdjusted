@@ -1,33 +1,33 @@
 # config
 cover: /img/bg_img.jpg
-logo: /img/logo.png
+logo: /img/logo.jpeg
 top_saying:
-- title: YOU'VE MADE A <span>BRAVE</span> DECISION, WELCOME.
-- content: 每一个不曾起舞的日子都是对生命的辜负。
-bottom_saying: 虽然还没想好写点什么，但是总觉得这里放句话比较和谐。
+- title: 万卷书，万里路
+- content: 
+bottom_saying: Stay hungry, stay foolish.
 # Content
 excerpt_link: Read More
 
-rss: /atom.xml
+#rss: /atom.xml
 
 highlightjs: vs
 
 #Works
 works:
-- works_name: AAA
-  works_url: /
-- works_name: BBB
-  works_url: /atom.xml
+- works_name: This On Github
+  works_url: https://github.com/Bob-cheng/Bob-cheng.github.io/tree/master
+#- works_name: BBB
+#  works_url: /atom.xml
 
 #duoshuo name
 duoshuo: duoshuo_name
 
 # Miscellaneous
-github: https://github.com/
-twitter: https://twitter.com/
-facebook: https://www.facebook.com/
-google: https://google.com/
-weibo: http://weibo.com/
+github: https://github.com/Bob-cheng
+twitter: https://twitter.com/czy_bob
+facebook: https://www.facebook.com/czybob
+google: https://plus.google.com/u/0/112768490065596581970
+#weibo: http://weibo.com/
 
 #about  timeline
 timeline:
@@ -42,7 +42,7 @@ timeline:
 
 #Links
 links:
-- name: Kieran
-  link: http://go.kieran.top/
-- name: Name
-  link: http://domain.com/
+- name: MyCodingSites
+  link: https://bobcheng.space/
+#- name: Name
+#  link: http://domain.com/
